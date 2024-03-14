@@ -1,0 +1,17 @@
+.homepage-container {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+
+.card {
+  background-color: #333;
+  color: white;
+  border: 1px solid #666;
+  border-radius: 5px;
+}
+
+.card-title,
+.card-text {
+  text-align: left;
+}

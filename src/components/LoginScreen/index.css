@@ -1,0 +1,82 @@
+/* index.css */
+.login-container {
+  background-color: gray;
+  padding: 20px;
+  height:100vh ;
+}
+
+.container-md {
+  max-width: 768px; /* Adjust as needed for medium devices */
+  margin: auto;
+}
+
+.logo {
+  width: 100%;
+  max-width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+
+.error {
+  color: red;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+}
+
+h1,
+h2 {
+  color: white;
+  font-family: 'Arial Black', sans-serif;
+  text-align: center;
+}
+
+label {
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.form-control {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  width: 100%;
+  margin-bottom: 15px;
+  font-family: Arial, sans-serif;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  font-family: Arial, sans-serif;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.container-md {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+}
+/* index.css */
+.container-border {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.container-border p {
+  margin: 0; /* Remove default margin */
+}
